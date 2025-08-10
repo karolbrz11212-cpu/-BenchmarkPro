@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.BenchmarkPro" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/premiumSurface</item>
+        <item name="colorOnPrimary">@color/premiumOnSurface</item>
+        <item name="colorSecondary">@color/premiumAccent</item>
+    </style>
+</resources>

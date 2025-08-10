@@ -1,0 +1,8 @@
+<resources>
+    <color name="premiumSurface">#0F1724</color>
+    <color name="premiumOnSurface">#FFFFFF</color>
+    <color name="premiumAccent">#FF7043</color>
+    <color name="premiumGreen">#4CAF50</color>
+    <color name="premiumYellow">#FFC107</color>
+    <color name="premiumRed">#F44336</color>
+</resources>
